@@ -9,7 +9,7 @@ class B extends A
 {
 void display()
 {
-System.out.println("Inside B class");
+System.out.println("Inside B ");
 }
 }
 class C extends A
@@ -34,4 +34,4 @@ ref.display();
 ref=a1;
 ref.display();
 }
-}
+}
